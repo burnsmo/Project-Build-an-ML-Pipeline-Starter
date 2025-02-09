@@ -1,6 +1,6 @@
 LINK TO W&B - https://wandb.ai/burnsmolivia-udacity/nyc_airbnb/reports/WANDB--VmlldzoxMTI3NzIxMA?accessToken=2rbpe96zamsw9a9bejxdswoom0327j0si5tkt5zi30dkjrvhhc2qs7u11p1l97oz
 
-
+LINK TO GITHUB - https://github.com/burnsmo/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
